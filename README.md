@@ -2,10 +2,10 @@
 
 This is a study and research with the paper that is named Discovering Refactoring Opportunities in Cascading Style Sheets.
 
-It is a research dataset by code analysis that is result from [Refactor CSS](http://openscience.us/repo/code-analysis/refactorcss.html) in software engineering.
+It is a research dataset that is result from [Refactor CSS](http://openscience.us/repo/code-analysis/refactorcss.html) by code analysis in software engineering.
 
-[Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2635879)
+[Paper](http://dl.acm.org/citation.cfm?id=2635879) in ACM Digital Library
 
-The project details is by [Davood Mazinanian](https://github.com/dmazinanian/css-analyser).
+The project details is built by [Davood Mazinanian](https://github.com/dmazinanian/css-analyser).
 
 Thanks for Davood Mazinanian.
