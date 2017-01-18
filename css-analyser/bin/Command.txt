@@ -1,1 +1,0 @@
-css-analyser-master --mode NODOM --in-folder "D:\css-analyser\bin\css-source"
